@@ -48,8 +48,7 @@ print()
 
 
 
-
-
+"""
 
 
 print()
@@ -69,8 +68,7 @@ print()
 print('*****  end section 3 ********')
 print()
 
-
-
+"""
 
 print()
 print('*****  start section 4 - delete/remove from dictionary ********')
@@ -144,7 +142,7 @@ print('*****  start section 7 - using pop method ********')
 print()
 
 
-remove = phonebook.pop('chris', 'not found')
+remove = phonebook.pop('Chris', 'not found')
 print(remove)
 print(phonebook)
 
@@ -172,7 +170,7 @@ print()
 print('*****  end section 8 ********')
 print()
 
-"""
+
 
 print()
 print('*****  start section 9 - using random and converting to list ********')
@@ -189,4 +187,4 @@ print()
 print('*****  end section 9 ********')
 print()
 
-
+"""
